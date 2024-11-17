@@ -1,0 +1,224 @@
+[
+    {
+        "category": "description",
+        "question": "Qu'est-ce qu'un acte de naissance ?",
+        "answer": "L'acte de naissance est un document juridique établi par un officier de l'état civil lors de la déclaration de naissance. Il atteste de l'état civil de la personne et doit être produit lors de certaines démarches officielles (demande de naturalisation, mariage, inscription au registre du commerce...)."
+    },
+    {
+        "category": "procédure",
+        "question": "Comment puis-je demander un acte de naissance à Antony ?",
+        "answer": "Vous pouvez faire la demande en ligne via le formulaire disponible sur le site de la mairie d'Antony. Il est recommandé de réaliser la demande environ 8 à 10 jours à l'avance pour tenir compte des délais de traitement et d'acheminement."
+    },
+    {
+        "category": "démarches",
+        "question": "Quelles sont les options disponibles pour la délivrance d'un acte de naissance ?",
+        "answer": "Vous pouvez obtenir une copie intégrale, un extrait sans filiation ou un extrait avec filiation. Notez que vous pouvez demander un seul type d'acte par demande."
+    },
+    {
+        "category": "démarches spécifiques",
+        "question": "Que faire si j'ai besoin d'un acte de naissance plurilingue et d'une copie intégrale ?",
+        "answer": "Vous devrez effectuer deux demandes distinctes, car un seul type d'acte peut être demandé par formulaire."
+    },
+    {
+        "category": "informations spéciales",
+        "question": "Que dois-je faire pour obtenir des actes de naissance de plus de cent ans ?",
+        "answer": "Les actes de plus de cent ans doivent être recherchés sur le site Internet des archives départementales des Hauts-de-Seine à l'adresse : http://consultation.archives.hauts-de-seine.net/."
+    },
+    {
+        "category": "procédure spécifique",
+        "question": "Que faire si je ne connais pas la date exacte de l'acte de naissance ?",
+        "answer": "Vous devez faire votre demande par courrier si vous ne connaissez pas la date exacte de l'acte de naissance."
+    },
+    {
+        "category": "livraison",
+        "question": "Comment recevrai-je l'acte de naissance demandé ?",
+        "answer": "Tous les actes demandés seront envoyés par courrier à l'adresse postale du demandeur. Ils ne peuvent pas être transmis par e-mail pour des raisons juridiques."
+    },
+    {
+        "category": "coût",
+        "question": "Quel est le coût pour demander un acte de naissance à Antony ?",
+        "answer": "La demande d'acte de naissance est gratuite."
+    },
+    {
+        "category": "public",
+        "question": "Qui peut demander un acte de naissance à Antony ?",
+        "answer": "Toute personne majeure ou émancipée peut faire une demande d'acte de naissance."
+    },
+    {
+        "category": "procédure spéciale",
+        "question": "Quelles démarches ne nécessitent pas de fournir un acte de naissance si l'on est né à Antony ?",
+        "answer": "Si vous êtes né(e) à Antony, il est inutile de fournir votre acte de naissance pour une demande de Carte Nationale d'Identité ou de Passeport grâce au procédé COMEDEC. La Préfecture contacte directement l'état-civil pour vérifier les données déclarées."
+    },
+    {
+        "category": "contacts",
+        "question": "Comment contacter la Direction de la Population de la mairie d'Antony ?",
+        "answer": "Vous pouvez contacter la Direction de la Population à l'adresse suivante : Place de l’Hôtel de Ville – BP 600 86 – 92161 Antony Cedex. Téléphone : 01 40 96 71 00."
+    },
+
+
+
+
+
+    {
+        "category": "description",
+        "question": "Qu'est-ce qu'un acte de mariage ?",
+        "answer": "L'acte de mariage est un document juridique qui atteste de la situation maritale des époux. En France, il est établi par un officier d'état civil et peut être nécessaire pour certaines démarches officielles comme un acte notarié pour une succession ou une vente."
+    },
+    {
+        "category": "procédure",
+        "question": "Comment puis-je demander un acte de mariage à Antony ?",
+        "answer": "Vous pouvez faire la demande en ligne via le formulaire disponible sur le site de la mairie d'Antony. Il est recommandé de réaliser la demande environ 8 à 10 jours à l'avance pour tenir compte des délais de traitement et d'acheminement."
+    },
+    {
+        "category": "démarches",
+        "question": "Quelles sont les options disponibles pour la délivrance d'un acte de mariage ?",
+        "answer": "Vous pouvez obtenir une copie intégrale, un extrait sans filiation ou un extrait avec filiation. Notez que le service de l'état civil de la mairie ne peut fournir que les actes établis dans la commune."
+    },
+    {
+        "category": "conditions",
+        "question": "Quelles conditions doivent être remplies pour demander un acte de mariage avec filiation ?",
+        "answer": "Pour demander une copie intégrale ou un extrait avec filiation, vous devez avoir un lien de parenté avec la personne concernée par l'acte de mariage (être l'époux/épouse, partenaire de PACS, ascendant tel que parent ou grand-parent, ou descendant tel qu'enfant ou petit-enfant)."
+    },
+    {
+        "category": "conditions",
+        "question": "Quelles sont les conditions pour demander un extrait d'acte de mariage sans filiation ?",
+        "answer": "Pour un extrait sans filiation, aucune justification de lien de parenté n'est requise tant que le requérant est majeur."
+    },
+    {
+        "category": "livraison",
+        "question": "Comment recevrai-je l'acte de mariage demandé ?",
+        "answer": "Tous les actes demandés seront envoyés par courrier à l'adresse postale du demandeur. Ils ne peuvent pas être transmis par e-mail pour des raisons juridiques."
+    },
+    {
+        "category": "démarches spécifiques",
+        "question": "Que faire si j'ai besoin d'un acte de mariage plurilingue et d'une copie intégrale ?",
+        "answer": "Vous devrez effectuer deux demandes distinctes, car un seul type d'acte peut être demandé par formulaire."
+    },
+    {
+        "category": "informations spéciales",
+        "question": "Que dois-je faire pour obtenir des actes de mariage de plus de cent ans ?",
+        "answer": "Les actes de mariage de plus de cent ans doivent être recherchés sur le site Internet des archives départementales des Hauts-de-Seine à l'adresse : http://consultation.archives.hauts-de-seine.net/."
+    },
+    {
+        "category": "procédure spécifique",
+        "question": "Que faire si je ne connais pas la date exacte de l'acte de mariage ?",
+        "answer": "Vous devez faire votre demande par courrier si vous ne connaissez pas la date exacte de l'acte de mariage."
+    },
+    {
+        "category": "coût",
+        "question": "Quel est le coût pour demander un acte de mariage à Antony ?",
+        "answer": "La demande d'acte de mariage est gratuite."
+    },
+    {
+        "category": "public",
+        "question": "Qui peut demander un acte de mariage à Antony ?",
+        "answer": "Toute personne majeure ou émancipée peut faire une demande d'acte de mariage."
+    },
+    {
+        "category": "contacts",
+        "question": "Comment contacter la Direction de la Population de la mairie d'Antony ?",
+        "answer": "Vous pouvez contacter la Direction de la Population à l'adresse suivante : Place de l’Hôtel de Ville – BP 600 86 – 92161 Antony Cedex. Téléphone : 01 40 96 71 00."
+    }, 
+
+
+
+    {
+        "category": "description",
+        "question": "Qu'est-ce qu'un acte de décès ?",
+        "answer": "L'acte de décès est un document juridique attestant du décès d'une personne. Il constitue une preuve du décès aux yeux de l'état français et peut être nécessaire pour des démarches telles que la clôture de compte bancaire, la résiliation de contrats, et la déclaration de succession."
+    },
+    {
+        "category": "contenu",
+        "question": "Que contient une copie intégrale d'acte de décès ?",
+        "answer": "Une copie intégrale d'acte de décès mentionne la date, l'heure et le lieu du décès, les prénoms, le nom, la date et le lieu de naissance, la profession et le domicile du défunt, les prénoms et noms des parents, l'époux(se) ou partenaire de PACS, ainsi que les informations sur le déclarant (âge, profession, domicile et éventuellement le lien de parenté avec le défunt)."
+    },
+    {
+        "category": "procédure",
+        "question": "Comment puis-je demander un acte de décès à Antony ?",
+        "answer": "Vous pouvez faire la demande en ligne via le formulaire disponible sur le site de la mairie d'Antony. Il est recommandé de réaliser la demande environ 8 à 10 jours à l'avance pour tenir compte des délais de traitement et d'acheminement."
+    },
+    {
+        "category": "public",
+        "question": "Qui peut demander une copie d'acte de décès ?",
+        "answer": "Des copies d'actes de décès peuvent être délivrées à tout requérant, qu'il ait ou non un lien de parenté avec la personne décédée."
+    },
+    {
+        "category": "démarches",
+        "question": "Quelles sont les options disponibles pour la délivrance d'un acte de décès ?",
+        "answer": "Vous pouvez demander une copie intégrale ou un extrait plurilingue d'acte de décès. Notez que le service de l'état civil de la mairie ne peut fournir que les actes établis dans la commune."
+    },
+    {
+        "category": "détails supplémentaires",
+        "question": "Quand un décès est-il mentionné sur un acte de naissance ?",
+        "answer": "Le décès est mentionné en marge de l'acte de naissance du défunt."
+    },
+    {
+        "category": "cas particuliers",
+        "question": "Que dois-je faire pour obtenir des actes de décès de plus de cent ans ?",
+        "answer": "Les actes de décès de plus de cent ans doivent être recherchés sur le site Internet des archives départementales des Hauts-de-Seine à l'adresse : http://consultation.archives.hauts-de-seine.net/."
+    },
+    {
+        "category": "procédure spécifique",
+        "question": "Que faire si je ne connais pas la date exacte de l'acte de décès ?",
+        "answer": "Vous devez faire votre demande par courrier si vous ne connaissez pas la date exacte de l'acte de décès."
+    },
+    {
+        "category": "livraison",
+        "question": "Comment recevrai-je l'acte de décès demandé ?",
+        "answer": "Tous les actes demandés seront envoyés par courrier à l'adresse postale du demandeur. Ils ne peuvent pas être transmis par e-mail pour des raisons juridiques."
+    },
+    {
+        "category": "coût",
+        "question": "Quel est le coût pour demander un acte de décès à Antony ?",
+        "answer": "La demande d'acte de décès est gratuite."
+    },
+    {
+        "category": "contacts",
+        "question": "Comment contacter la Direction de la Population de la mairie d'Antony ?",
+        "answer": "Vous pouvez contacter la Direction de la Population à l'adresse suivante : Place de l’Hôtel de Ville – BP 600 86 – 92161 Antony Cedex. Téléphone : 01 40 96 71 00."
+    },
+
+
+
+    {
+        "category": "public",
+        "question": "Qui peut demander un changement de prénom ?",
+        "answer": "Cette démarche est ouverte à tout public, tant pour les majeurs que pour les mineurs."
+    },
+    {
+        "category": "quand",
+        "question": "Quand puis-je faire une demande de changement de prénom ?",
+        "answer": "La demande de changement de prénom peut être effectuée toute l'année."
+    },
+    {
+        "category": "comment",
+        "question": "Comment puis-je demander un changement de prénom à Antony ?",
+        "answer": "Cette démarche se fait sur rendez-vous auprès du service État Civil. Elle peut être réalisée à la mairie du lieu de naissance ou à la mairie du domicile. La présence du demandeur est obligatoire."
+    },
+    {
+        "category": "documents",
+        "question": "Quelles pièces dois-je fournir pour demander un changement de prénom ?",
+        "answer": "Vous devez fournir :\n1. Une copie d'une pièce d'identité en cours de validité (et pour chaque nationalité en cas de double nationalité).\n2. Un justificatif de domicile (si vous êtes hébergé, fournissez un justificatif de domicile de l'hébergeant et une attestation sur l'honneur de cette personne).\n3. Le dossier Cerfa dûment complété selon votre cas (majeur ou mineur).\n4. Des pièces justifiant l'intérêt légitime de la demande (ex : certificat d'accouchement, carnet de santé, contrats de travail, factures, attestations de proches, certificats médicaux, etc.)."
+    },
+    {
+        "category": "documents spécifiques",
+        "question": "Quelles pièces justificatives puis-je fournir pour justifier l'intérêt légitime de ma demande ?",
+        "answer": "Les pièces justificatives dépendent de votre situation :\n- Pour l'enfance ou la scolarité : certificat d'accouchement, copie du carnet de santé, livret de famille, diplômes...\n- Pour la vie professionnelle : contrat de travail, attestation de collègues, courriels professionnels...\n- Pour la vie administrative : copies de pièces d'identité, factures, avis d'imposition, justificatifs de domicile...\n- Pour la vie personnelle : attestations de proches, certificat d'inscription à une activité de loisirs...\n- Vous pouvez aussi joindre des certificats médicaux si vous éprouvez des difficultés à cause de votre prénom."
+    },
+    {
+        "category": "coût",
+        "question": "Quel est le coût pour demander un changement de prénom à Antony ?",
+        "answer": "La demande de changement de prénom est gratuite."
+    },
+    {
+        "category": "dépôt",
+        "question": "Comment déposer mon dossier de demande de changement de prénom ?",
+        "answer": "Le dépôt du dossier se fait pour instruction en cliquant sur le bouton 'commencer' sur le site de la mairie d'Antony."
+    },
+    {
+        "category": "contacts",
+        "question": "Comment contacter le service État Civil de la mairie d'Antony ?",
+        "answer": "Vous pouvez contacter la Direction de la Population, Service État Civil, à l'adresse suivante : Place de l’Hôtel de Ville – BP 600 86 – 92161 Antony Cedex. Téléphone : 01 40 96 71 00."
+    }
+]
+
